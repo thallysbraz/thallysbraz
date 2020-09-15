@@ -37,10 +37,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="mailto:thallysbraz3@gmail.com" alt="Gmail"> </a>
   
-<a href="https://www.linkedin.com/in/thallysbraz" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+<a href="https://www.linkedin.com/in/thallysbraz" alt="Linkedin"> </a>
   
-<a href="https://twitter.com/thallysbraz1" alt="Twitter">
-<img src="https://img.shields.io/badge/-@iuriescreve-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iuriescreve" /></a>
+<a href="https://twitter.com/thallysbraz1" alt="Twitter"> </a>
  </p>
  
