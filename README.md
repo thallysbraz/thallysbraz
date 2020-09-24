@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <p align="left">
   Olá, meu nome é Thallys Braz sou <strong>Desenvolvedor Back end</strong>.<br>
-  Estou cursando Desenvolvimento de Sistemas e Sistema para Internet.
+  Estou cursando Engenharia de Software.
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>NodeJS, JavaScript, Java, C, Python e SAP XSJS.</strong>
+  🚀 Skills: <strong>NodeJS, JavaScript, Java, C, Python, SAP XSJS e SAP UI5.</strong>
 </p>
 
 <p align="left">
