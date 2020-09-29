@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
 <p align="left">
-  Olá, meu nome é Thallys Braz sou <strong>Desenvolvedor Back end</strong>.<br>
-  Estou cursando Engenharia de Software.
+  Olá, meu nome é Thallys Braz sou <strong>Desenvolvedor Back end</strong>,
+  proficiência em JavaScript e NodeJS.<br>Organizado, inovador e com conhecimento em todas as fases de desenvolvimento.<br>
+  Estou cursando Engenharia de Software.<br>
+  Português – Nativo<br>
+  Inglês – Básico (cursando intermediário)<br>
 </p>
 
 <p align="left">
@@ -27,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>ReactJS e ReactNative.</strong>
+  🌈 Estudando atualmente: <strong>ReactJS, ReactNative e Java.</strong>
 </p>
 
 <p align="left">
@@ -41,4 +44,3 @@ Here are some ideas to get you started:
   
 <a href="https://twitter.com/thallysbraz1" alt="Twitter"> </a>
  </p>
- 
