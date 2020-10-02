@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>Git, API Rest, NodeJS, JavaScript, Java, C, Python, SAP XSJS e SAP UI5.</strong><br>
+  🚀 Skills: <strong>Git, API Rest, SOAP, ODATA, NodeJS, JavaScript, Java, C, Python, SAP XSJS e SAP UI5.</strong><br>
   🚀 Conhecimento: <strong>Docker e CI/CD.</strong>
 </p>
 
