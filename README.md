@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>NodeJS, JavaScript, Java, C, Python, SAP XSJS e SAP UI5.</strong>
+  🚀 Skills: <strong>NodeJS, JavaScript, Java, C, Python, SAP XSJS e SAP UI5.</strong><br>
+    Conhecimento: <strong>Docker e CI/CD.</strong>
 </p>
 
 <p align="left">
