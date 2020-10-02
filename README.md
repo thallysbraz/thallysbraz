@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>ReactJS, ReactNative e Java.</strong>
+  🌈 Estudando atualmente: <strong>ReactJS, ReactNative e CSS.</strong>
 </p>
 
 <p align="left">
