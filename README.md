@@ -34,6 +34,10 @@ Here are some ideas to get you started:
   🌈 Estudando atualmente: <strong>ReactJS, ReactNative e CSS.</strong>
 </p>
 
+[![card](https://github-readme-stats.vercel.app/api?username=thallysbraz&theme=dark)](https://github.com/thallysbraz/)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=thallysbraz&hide=html&layout=compact&theme=dark)](https://github.com/thallysbraz/)
+
 <p align="left">
 📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
