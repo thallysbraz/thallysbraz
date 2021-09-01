@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 <p align="left">
   Olá, meu nome é Thallys Braz sou <strong>Desenvolvedor Back end</strong>,
-  proficiência em JavaScript e NodeJS.<br>Organizado, inovador e com conhecimento em todas as fases de desenvolvimento.<br>
+  proficiência em JavaScript, TypeScript e NodeJS.<br>Organizado, inovador e com conhecimento em todas as fases de desenvolvimento.<br>
   Estou cursando Engenharia de Software.<br>
   Português – Nativo<br>
   Inglês – Básico (cursando intermediário)<br>
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>Git, API Rest, SOAP, ODATA, NodeJS, JavaScript, Java, C, Python, SAP XSJS e SAP UI5.</strong><br>
+  🚀 Skills: <strong>Git, API Rest, SOAP, ODATA, NodeJS, JavaScript, TypeScript, NodeJS, HTML5, Java, C, Python, SAP XSJS e SAP UI5.</strong><br>
   🚀 Conhecimento: <strong>Docker e CI/CD.</strong>
 </p>
 
