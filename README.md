@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   proficiência em JavaScript, TypeScript e NodeJS.<br>Organizado, inovador e com conhecimento em todas as fases de desenvolvimento.<br>
   Estou cursando Engenharia de Software.<br>
   Português – Nativo<br>
-  Inglês – Básico (cursando intermediário)<br>
+  Inglês – Intermediário<br>
 </p>
 
 <p align="left">
